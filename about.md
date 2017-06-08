@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Programmer, student, writer, musician, photographer, fashionhead, gym enthusiast, and motivational speaker for myself.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A casual lifestyle blog. I like to talk about social issues, personal development, and technology. Everything you read on the internet is true and should be credible no matter what.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+[Instagram][instagram]
+[Github][github]
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is still under construction, so if some things are bad, it's not because I'm an inadequate programmer.
